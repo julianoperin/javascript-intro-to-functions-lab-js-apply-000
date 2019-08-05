@@ -28,6 +28,7 @@ function sayHiToGrandma (aWord) {
   var cantUnswer = "I can't hear you!";
   var yesUnswer = "YES INDEED!";
   var lovUnswer = "I love you, too.";
+  
   if (aWord.toLowerCase(aWord) === aWord) {
     return cantUnswer;
   }
