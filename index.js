@@ -16,10 +16,11 @@ function logWhisper(aWord) {
   
 }
 
-function sayHiToGrandma(aWord) {
+/*function sayHiToGrandma(aWord) {
   var cantHear = "I can't hear you!"; 
   
   if (aWord === aWord.toLowerCase){
   return cantHear;
   }
-}
+}*/
+
